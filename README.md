@@ -1,5 +1,4 @@
-```markdown
-# React + TypeScript: Testing with React Testing Library & Jest
+# **React + TypeScript: Testing with React Testing Library & Jest**
 
 ## Описание
 Проект демонстрирует различные подходы к тестированию React приложений с использованием `React Testing Library` и `Jest`. Все примеры реализованы на TypeScript и включают тестирование компонентов, хуков, асинхронного поведения и Redux Toolkit.
@@ -95,4 +94,3 @@ npm test
 - [MSW Documentation](https://mswjs.io/)
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/)
 - [Туториал React Testing Library + TypeScript](https://www.youtube.com/watch?v=bvdHVxqjv80)
-```
