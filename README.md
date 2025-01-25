@@ -5,6 +5,7 @@
    npm i jest-environment-jsdom --force
    npm install msw --save-dev // для имитации запросов к серверу
    npm i jest-fixed-jsdom --save-dev // без него при имитации запросов к серверу возникают ошибки
+   npm i react-redux @reduxjs/toolkit // для тестирования redux toolkit
 
 
 2. Установить настройки:

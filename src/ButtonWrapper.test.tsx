@@ -1,4 +1,4 @@
-import "@testing-library/jest-dom"; // for toBeInTheDocument
+import "@testing-library/jest-dom"; // для toBeInTheDocument
 import { fireEvent, render, screen } from "@testing-library/react";
 import ButtonWrapper from "./ButtonWrapper";
 

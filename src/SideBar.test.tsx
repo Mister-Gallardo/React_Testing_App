@@ -1,5 +1,5 @@
 // import '@testing-library/react'
-import "@testing-library/jest-dom"; // for toBeInTheDocument
+import "@testing-library/jest-dom"; // для toBeInTheDocument
 // import '@testing-library/user-event';
 import { render, screen } from "@testing-library/react";
 import SideBar from "./SideBar";

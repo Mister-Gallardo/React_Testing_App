@@ -1,4 +1,4 @@
-import "@testing-library/jest-dom"; // for toBeInTheDocument
+import "@testing-library/jest-dom"; // для toBeInTheDocument
 import { act, renderHook } from "@testing-library/react";
 import useCounter from "./useCounter";
 
