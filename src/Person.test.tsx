@@ -12,3 +12,4 @@ test('renders a name', () => {
     expect(divElement).toHaveTextContent('Name is Jack');
     expect(divElement).toHaveAttribute('role', 'contentinfo');
 })
+
