@@ -26,9 +26,9 @@ afterEach(() => server.resetHandlers());
 afterAll(() => server.close());
 
 test("gets the data", async () => {
-    render(<APIComponent />);
-  
-    const out = await waitFor(() => screen.getByRole("contentinfo"));
-  
-    expect(out).toHaveTextContent("Name is Jack");
-  });
+  render(<APIComponent />);
+
+  const out = await waitFor(() => screen.getByRole("contentinfo"));
+
+  expect(out).toHaveTextContent("Name is Jack");
+});
