@@ -15,6 +15,7 @@
    npm i react-redux @reduxjs/toolkit # для тестирования redux toolkit
    ```
 
+
 2. Установите настройки:
 
 ### 2.1 Настройка Jest
