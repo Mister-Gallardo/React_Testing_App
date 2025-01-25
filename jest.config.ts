@@ -1,4 +1,4 @@
-// обязательная настройка для работы с TypeScript фалйами
+// обязательная настройка для работы с TypeScript файлами
 
 module.exports = {
     preset: 'ts-jest',
