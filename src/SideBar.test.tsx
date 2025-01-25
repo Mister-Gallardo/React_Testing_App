@@ -4,7 +4,7 @@ import "@testing-library/jest-dom"; // for toBeInTheDocument
 import { render, screen } from "@testing-library/react";
 import SideBar from "./SideBar";
 
-test("renders a name", () => {
+test("renders a element", () => {
   const items = [
     {
       name: "item_name",

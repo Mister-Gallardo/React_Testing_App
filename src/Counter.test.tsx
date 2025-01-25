@@ -2,7 +2,7 @@ import "@testing-library/jest-dom"; // for toBeInTheDocument
 import { fireEvent, render, screen } from "@testing-library/react";
 import Counter from "./Counter";
 
-test("renders a name", () => {
+test("increment", () => {
   render(<Counter />);
 
   const divElement = screen.getByRole("contentinfo");
