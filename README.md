@@ -13,6 +13,7 @@
    npm install msw --save-dev # для имитации запросов к серверу
    npm i jest-fixed-jsdom --save-dev # для исправления ошибок с jsdom
    npm i react-redux @reduxjs/toolkit # для тестирования redux toolkit
+   npm i ts-node
    ```
 
 
